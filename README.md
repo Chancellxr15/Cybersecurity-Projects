@@ -1,19 +1,4 @@
-██████╗ ██╗     ██╗   ██╗███████╗
-██╔══██╗██║     ██║   ██║██╔════╝
-██████╔╝██║     ██║   ██║█████╗  
-██╔══██╗██║     ██║   ██║██╔══╝  
-██████╔╝███████╗╚██████╔╝███████╗
-╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝
-
-████████╗███████╗ █████╗ ███╗   ███╗
-╚══██╔══╝██╔════╝██╔══██╗████╗ ████║
-   ██║   █████╗  ███████║██╔████╔██║
-   ██║   ██╔══╝  ██╔══██║██║╚██╔╝██║
-   ██║   ███████╗██║  ██║██║ ╚═╝ ██║
-   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝
-
-
-This repository documents my hands-on work and continuous learning in **cybersecurity**, with a strong focus on:
+This repository documents my hands-on work and continuous learning in cybersecurity, with a strong focus on:
 
 ### ☁️ Cloud Security
 - Securing cloud environments (AWS / Azure concepts)
